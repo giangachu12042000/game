@@ -1,0 +1,13 @@
+
+.container{
+    .bottom-change{
+        display: flex;
+        justify-content: space-between;
+        p{
+            width: 70px;
+            padding: 10px 5px;
+            background-color: rgb(230, 213, 213);
+            margin-right: 5px;
+        }
+    }
+}
